@@ -17,11 +17,11 @@ Cette application de tâches ("To-Do App") permet aux utilisateurs d'ajouter des
 ### Étapes
 1. Clonez le dépôt :
     ```bash
-    git clone https://github.com/votre-utilisateur/todo-app.git
+    git clone https://github.com/mbadiao/React-todo-app.git
     ```
 2. Accédez au répertoire du projet :
     ```bash
-    cd todo-app
+    cd React-todo-app
     ```
 3. Installez les dépendances :
     ```bash
